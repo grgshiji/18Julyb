@@ -2,8 +2,8 @@
   "name": "18Julyb",
   "type": "package",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/grgshiji/18Julyb.git",
+    "ssh": "git@github.com:grgshiji/18Julyb.git",
     "branch": "block_18Julyb"
   },
   "dependencies": {
